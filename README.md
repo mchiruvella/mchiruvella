@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Manoj, test automation enthusiast, speaker & hands-on engineering leader. I am hands-on guy with managerial experience & would love explore new open-source technologies & tools for QA. I have experience in tesing monolith applications, transistioning monolith to microservices & scalable microservices architecture applications. Built test ecosystems  with test automation framworks, execution tools, monitoring & tracebility dashboards.
+I'm Manoj, test automation enthusiast, speaker & hands-on engineering leader. I am hands-on guy with managerial experience & would love explore new open-source technologies & tools for QA. I have experience in tesing monolith applications, transistioning monolith to microservices & scalable microservices architecture applications. Built test ecosystems  with test automation frameworks, execution tools, monitoring & tracebility dashboards.
 
 
 - **I'm most excited** about: [hawqai](https://github.com/mchiruvella/hawqai) - a QA portal to initiate, monitor & visualize test automation executions. It provides an overall insights on daily executions & build trends on test automation failures.
